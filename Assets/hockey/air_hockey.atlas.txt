@@ -1,0 +1,97 @@
+
+air_hockey.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 143
+  size: 168, 172
+  orig: 168, 172
+  offset: 0, 0
+  index: -1
+1_off
+  rotate: false
+  xy: 422, 681
+  size: 168, 172
+  orig: 168, 172
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 135, 139
+  orig: 135, 139
+  offset: 0, 0
+  index: -1
+2_off
+  rotate: true
+  xy: 596, 843
+  size: 135, 139
+  orig: 135, 139
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 309, 460
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+3_off
+  rotate: false
+  xy: 172, 211
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 422, 608
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+4_off
+  rotate: false
+  xy: 737, 907
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+bar
+  rotate: true
+  xy: 309, 566
+  size: 287, 111
+  orig: 287, 111
+  offset: 0, 0
+  index: -1
+fontneon
+  rotate: false
+  xy: 309, 855
+  size: 285, 123
+  orig: 285, 123
+  offset: 0, 0
+  index: -1
+fontneon_off
+  rotate: false
+  xy: 2, 317
+  size: 285, 123
+  orig: 285, 123
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 2, 711
+  size: 305, 267
+  orig: 305, 267
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 442
+  size: 305, 267
+  orig: 305, 267
+  offset: 0, 0
+  index: -1
